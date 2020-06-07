@@ -2,9 +2,7 @@ title: Emotional Support Objects
 author: Stephen Feldman
 email: sfeldman@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the most badass blog in the history of man kind.
 
 # social links
 twitter_username: StephenFeldman3 # DO NOT include the @ character, or else the build will fail!
